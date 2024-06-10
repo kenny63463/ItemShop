@@ -2,50 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaCharacter:CID_290_Athena_Commando_F_BlueBadass"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaDance:EID_DoggyStrut"
         ],
         "price": 500
     },
     "daily3": {
+
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
-        ],
-        "price": 500
+            "Wrap_078_SlurpJuice"
+       ] "price": 500
+        
     },
     "daily4": {
+       
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "Pickaxe_ID_197_HoppityHeist"
         ],
-        "price": 700
+        "price": 500
+        
     },
-    "daily5": {
-        "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
-        ],
-        "price": 800
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
-        ],
-        "price": 300
+    "daily5": 
+       
+       "itemGrants": [  "CID_356_Athena_Commando_F_Farmer"
+    
+    
+   
+           
+        
+       
+  
+        
+            
+        
+
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_294_Athena_Commando_F_RedKnightWinter"
         ],
-        "price": 2500
+        "price": 1000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "CID_022_Athena_Commando_F"
         ],
-        "price": 2000
+        "price": 1200
     }
 }
